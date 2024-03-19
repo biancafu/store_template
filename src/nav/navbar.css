@@ -1,0 +1,17 @@
+.nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 0% 5%;
+}
+.nav a{
+    padding: 5%;
+    color:black;
+    
+}
+.nav div{
+    padding: 0 5%;
+}
+
+.nav a:hover {
+    color: pink;
+}
